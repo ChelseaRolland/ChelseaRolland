@@ -1,4 +1,4 @@
-![Header]()
+![Header](https://github.com/ChelseaRolland/ChelseaRolland/blob/main/chelsea_rolland_banner.gif)
 
 <h2 align="center"> ⭐ Hi there! ⭐ </h2>
 
@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Full-Stack web app YumRando with my teammates!
 - 🌱 I’m currently learning SpringBoot and Thymeleaf
 - 💬 Ask me about projects I am currently working on 
-- 📫 How to reach me: LinkedIn
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/chelsea-rolland/ "Linkedin")
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Even though I have a degree in Economics, I did attend Film school for a semester as a Production Designer.
 
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChelseaRolland&theme=onedark&show_icons=true&locale=en" alt="chelsearolland" /></p>
