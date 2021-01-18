@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Even though I have a degree in Economics, I did attend Film school for a semester as a Production Designer.
 
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChelseaRolland&theme=onedark&show_icons=true&locale=en" alt="chelsearolland" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChelseaRolland&theme=onedark&show_icons=true&locale=en&layout=compact" alt="chelsearolland"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChelseaRolland&theme=nightowl&show_icons=true&locale=en" alt="chelsearolland" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChelseaRolland&theme=nightowl&show_icons=true&locale=en&layout=compact" alt="chelsearolland"/></p>
 
 ---
 #### Frontend
