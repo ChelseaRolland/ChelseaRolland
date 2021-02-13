@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Full-Stack web app YumRando with my teammates!
-- 🌱 I’m currently learning SpringBoot and Thymeleaf
+- 🔭 I’m currently working on Intro to Python courses!
+- 🌱 I’m currently learning Python
 - 💬 Ask me about projects I am currently working on 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/chelsea-rolland/ "Linkedin")
 - 😄 Pronouns: She/Her
